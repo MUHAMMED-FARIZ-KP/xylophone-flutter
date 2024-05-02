@@ -1,16 +1,9 @@
 # xylophone
 
-A new Flutter project.
+Learning basics of flutter and Dart by doing small hobey projects.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/MUHAMMED-FARIZ-KP/xylophone-flutter/assets/81973124/f69e4a9c-2f1d-4b08-960c-1e28ea2fd16c
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
